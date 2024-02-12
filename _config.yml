@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Gomez"
-  avatar           :
+  avatar           : "profile.png"
   bio              : "Graduate Student"
   location         : "119 Kerchoff Hall"
   employer         :
