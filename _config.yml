@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin Gomez / Kevin Gomez"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Graduate Student
+description              : &description "Graduate Student"
 url                      : https://kg583.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kg583/kg583.github.io"
