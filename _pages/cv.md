@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Mathematics, University of Virginia, expected 2027.
-* B.A. in Mathematics, Vanderbilt University, 2022.
-* B.S. in Computer Science, Vanderbilt University, 2022.
+- Ph.D. in Mathematics, University of Virginia, expected 2027.
+- B.A. in Mathematics, Vanderbilt University, 2022.
+- B.S. in Computer Science, Vanderbilt University, 2022.
 
 ## Publications
 
@@ -31,6 +31,10 @@ redirect_from:
 
 ## Talks
 
+- Graduate Student Seminar, University of Virginia -- September 2023
+- Joint Mathematics Meetings PME Virtual Poster Session -- May 2022
+- Honors Senior Thesis Defense, Vanderbilt University -- May 2022
+
 ## Teaching
 
 - Instructor of Record for MATH 1220 (Calculus II), Spring 2024, University of Virginia
@@ -40,5 +44,5 @@ redirect_from:
   
 ## Honors and Awards
 
-* Dean's Doctoral Fellowship, University of Virginia
-* Wilson & Nellie Pyle Miser Award, Vanderbilt University
+- Dean's Doctoral Fellowship, University of Virginia
+- Wilson & Nellie Pyle Miser Award, Vanderbilt University
