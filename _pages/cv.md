@@ -30,8 +30,13 @@ redirect_from:
    Applications to Partition Ranks*, Journal of Number Theory, 226 (2021), 1-23. **doi**: [10.1016/j.jnt.2021.01.009](https://doi.org/10.1016/j.jnt.2021.01.009). **arXiv**: [2008.08253](https://arxiv.org/abs/2008.08253).
 
 ## Talks
-  
+
 ## Teaching
+
+- Instructor of Record for MATH 1220 (Calculus II), Spring 2024, University of Virginia
+- Instructor of Record for MATH 1310 (Calculus I), Fall 2023, University of Virginia
+- Teaching Assistant for MATH 1320 (Calculus II), Spring 2023, University of Virginia
+- Teaching Assistant for MATH 1320 (Calculus II), Fall 2022, University of Virginia
   
 ## Honors and Awards
 
