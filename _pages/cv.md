@@ -34,6 +34,7 @@ redirect_from:
 - Graduate Student Seminar, University of Virginia -- September 2023
 - Joint Mathematics Meetings PME Virtual Poster Session -- May 2022
 - Honors Senior Thesis Defense, Vanderbilt University -- May 2022
+- PAlmetto Joint Arithmetic, Modularity, and Analysis Series -- December 2020
 
 ## Teaching
 
@@ -41,6 +42,8 @@ redirect_from:
 - Instructor of Record for MATH 1310 (Calculus I), Fall 2023, University of Virginia
 - Teaching Assistant for MATH 1320 (Calculus II), Spring 2023, University of Virginia
 - Teaching Assistant for MATH 1320 (Calculus II), Fall 2022, University of Virginia
+- Teaching Assistant for CS 2212 (Discrete Math), Spring 2021, Vanderbilt University
+- Teaching Assistant for CS 2212 (Discrete Math), Fall 2020, Vanderbilt University
   
 ## Honors and Awards
 
