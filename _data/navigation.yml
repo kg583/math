@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Papers"
-    url: /math/papers/
+    url: /papers/
 
   - title: "Talks"
-    url: /math/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /math/teaching/
+    url: /teaching/
     
   - title: "Curriculum Vitae"
-    url: /math/cv/
+    url: /cv/
