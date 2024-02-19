@@ -15,6 +15,66 @@ description              : &description "Graduate Student"
 url                      : https://kg583.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/math"
 repository               : "kg583/math"
+
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Kevin Gomez"
+  pronouns         : "he/him" 
+  bio              : "PhD Candidate in Number Theory"
+  location         : "119 Kerchoff Hall"
+  employer         : "University of Virginia"
+  uri              : # URL
+  email            : "vhe4ht@virgnia.edu" 
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : # URL
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0001-8297-3209"
+  pubmed           : # URL
+  researchgate     : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "kg583"
+  kaggle           : # Username  
+  stackoverflow    : "16436774/kg583"  
+
+  # Social media
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Replace this with your X / Twitter handle
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
+
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,45 +139,6 @@ analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Kevin Gomez"
-  avatar           : "profile.png"
-  bio              : "Graduate Student"
-  location         : "119 Kerchoff Hall"
-  employer         :
-  pubmed           :
-  googlescholar    :
-  email            : "vhe4ht@virginia.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "kg583"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8297-3209"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : "16436774/kg583"
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
