@@ -27,6 +27,8 @@ redirect_from:
 
 ## Talks
 
+- Graduate Student Seminar, University of Virginia -- September 2024
+- AMS Fall Central Sectional Special Session on Additive Number Theory and Modular Forms, University of Texas - San Antonio -- September 2024
 - Graduate Student Seminar, University of Virginia -- September 2023
 - Joint Mathematics Meetings PME Virtual Poster Session -- May 2022
 - Honors Senior Thesis Defense, Vanderbilt University -- May 2022
@@ -34,6 +36,7 @@ redirect_from:
 
 ## Teaching
 
+- Instructor of Record for MATH 1210 (Calculus I), Fall 2024, University of Virginia
 - Instructor of Record for MATH 1220 (Calculus II), Spring 2024, University of Virginia
 - Instructor of Record for MATH 1310 (Calculus I), Fall 2023, University of Virginia
 - Teaching Assistant for MATH 1320 (Calculus II), Spring 2023, University of Virginia

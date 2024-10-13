@@ -9,6 +9,7 @@ author_profile: true
 
 ## Teaching
 
+- Instructor of Record for MATH 1210 (Calculus I), Fall 2024, University of Virginia
 - Instructor of Record for MATH 1220 (Calculus II), Spring 2024, University of Virginia
 - Instructor of Record for MATH 1310 (Calculus I), Fall 2023, University of Virginia
 - Teaching Assistant for MATH 1320 (Calculus II), Spring 2023, University of Virginia
