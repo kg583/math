@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+2. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
+
 1. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253)
 
 ## Publications
