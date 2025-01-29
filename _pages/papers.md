@@ -9,11 +9,11 @@ author_profile: true
 
 ## Preprints
 
-2. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
-
-1. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253)
+1. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
 
 ## Publications
+
+5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: Archiv der Mathematik, to appear. **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253)
 
 4. K. Gomez, K. Lakein, and A. Larsen, *Supersingular Loci from Traces of Hecke Operators*, Proceedings of the American Mathematical Society, 151 (2023), 511-525. **doi**: [10.1090/proc/16148](https://doi.org/10.1090/proc/16148). **arXiv**: [2106.15677](https://arxiv.org/abs/2106.15677).
 
