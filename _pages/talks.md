@@ -7,6 +7,7 @@ author_profile: true
 
 ## Talks
 
+- AMS Spring Eastern Sectional Special Session on Partitions and $q$-Series, University of Connecticut - Hartford -- April 2025
 - Graduate Student Seminar, University of Virginia -- September 2024
 - AMS Fall Central Sectional Special Session on Additive Number Theory and Modular Forms, University of Texas - San Antonio -- September 2024
 - Graduate Student Seminar, University of Virginia -- September 2023

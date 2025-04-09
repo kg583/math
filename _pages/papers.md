@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications
 
-5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: Archiv der Mathematik, to appear. **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253)
+5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: Archiv der Mathematik, (2025). **doi**: [10.1007/s00013-025-02109-x](https://doi.org/10.1007/s00013-025-02109-x). **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253).
 
 4. K. Gomez, K. Lakein, and A. Larsen, *Supersingular Loci from Traces of Hecke Operators*, Proceedings of the American Mathematical Society, 151 (2023), 511-525. **doi**: [10.1090/proc/16148](https://doi.org/10.1090/proc/16148). **arXiv**: [2106.15677](https://arxiv.org/abs/2106.15677).
 
