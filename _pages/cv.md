@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-- Ph.D. in Mathematics, University of Virginia, expected 2027.
+- Ph.D. in Mathematics, University of Virginia, expected 2026.
 - B.A. in Mathematics, Vanderbilt University, 2022.
 - B.S. in Computer Science, Vanderbilt University, 2022.
 
 ## Preprints
 
-1. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
-
 ## Publications
+
+6. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, Advances in Mathematics, to appear (2025). **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
 
 5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: Archiv der Mathematik, (2025). **doi**: [10.1007/s00013-025-02109-x](https://doi.org/10.1007/s00013-025-02109-x). **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253).
 
