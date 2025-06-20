@@ -7,7 +7,7 @@
   tags: (),
   show-outline: true,
   body,
-  author: "Kevin Gomez",
+  author: "KG",
 ) = {
 
   show: it => {
