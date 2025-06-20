@@ -3,11 +3,11 @@
 #let main(
   title: "Untitled",
   desc: [This is a blog post.],
-  date: "2025-06-08",
+  date: "2025-01-01",
   tags: (),
   show-outline: true,
   body,
-  author: "Max Baker",
+  author: "Kevin Gomez",
 ) = {
 
   show: it => {
