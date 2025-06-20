@@ -5,7 +5,7 @@
   desc: [This is a blog post.],
   date: "2025-01-01",
   tags: (),
-  show-outline: true,
+  show-outline: false,
   body,
   author: "KG",
 ) = {
