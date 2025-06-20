@@ -22,6 +22,6 @@ Let $"sf"(n)$ be the _sum-of-factorials_ function: $0! + 1! + ... n!$. Its first
 
 4. Does $L$ exist in every base?
 
-5. Let $\{a_n\}$ be a sequence of integers. Define the _convolution_ $"sf"^ast (n) = a_0 times 0! + a_1 times 1! + ... + a_n times n!$. Show that $L^ast$, the "limit" of $"sf"^ast (n)$, exists for any choice of $\{a_n\}$.
+5. Let $\{a_n\}$ be a sequence of integers. Define the _convolution_ $"sf"^*(n) = a_0 times 0! + a_1 times 1! + ... + a_n times n!$. Show that $L^*$, the "limit" of $"sf"^*(n)$, exists for any choice of $\{a_n\}$.
 
-6. Show that $79$ is not the last two digits of any $L^ast$ with $\{a_n\}$ a sequence of $0$'s and $1$'s. (That is, we may freely remove certain factorials from our sum.) What other numbers have this property?
+6. Show that $79$ is not the last two digits of any $L^*$ with $\{a_n\}$ a sequence of $0$'s and $1$'s. (That is, we may freely remove certain factorials from our sum.) What other numbers have this property?
