@@ -7,7 +7,7 @@
   desc: "Group Relative Policy Optimization",
   date: "2025-03-13",
   tags: (
-    "teensy-problems"
+    "teensy-problems",
   ),
   show-outline: true,
 )
