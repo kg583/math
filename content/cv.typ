@@ -9,31 +9,31 @@
 
 
 == Education
-- _Ph.D. in Mathematics_, University of Virginia #h(1fr) expected 2026
-- _B.A. in Mathematics_, Vanderbilt University #h(1fr) 2022
-- _B.S. in Computer Science_, Vanderbilt University #h(1fr) 2022 
+- _Ph.D. in Mathematics_, University of Virginia -- expected 2026
+- _B.A. in Mathematics_, Vanderbilt University -- 2022
+- _B.S. in Computer Science_, Vanderbilt University -- 2022 
 
 
 == Talks
-- AMS Spring Eastern Sectional Special Session on Partitions and $q$-Series, University of Connecticut - Hartford #h(1fr) April 2025
-- Graduate Student Seminar, University of Virginia #h(1fr) September 2024
-- AMS Fall Central Sectional Special Session on Additive Number Theory and Modular Forms, University of Texas - San Antonio #h(1fr) September 2024
-- Graduate Student Seminar, University of Virginia #h(1fr) September 2023
-- Joint Mathematics Meetings PME Virtual Poster Session #h(1fr) May 2022
-- Honors Senior Thesis Defense, Vanderbilt University #h(1fr) May 2022
-- PAlmetto Joint Arithmetic, Modularity, and Analysis Series #h(1fr) December 2020
+- AMS Spring Eastern Sectional Special Session on Partitions and $q$-Series, University of Connecticut - Hartford -- April 2025
+- Graduate Student Seminar, University of Virginia -- September 2024
+- AMS Fall Central Sectional Special Session on Additive Number Theory and Modular Forms, University of Texas - San Antonio -- September 2024
+- Graduate Student Seminar, University of Virginia -- September 2023
+- Joint Mathematics Meetings PME Virtual Poster Session -- May 2022
+- Honors Senior Thesis Defense, Vanderbilt University -- May 2022
+- PAlmetto Joint Arithmetic, Modularity, and Analysis Series -- December 2020
 
 == Teaching
 
-- Instructor of Record for MATH 1210 (Calculus I), University of Virginia #h(1fr) Fall 2024
-- Instructor of Record for MATH 1220 (Calculus II), University of Virginia #h(1fr) Spring 2024
-- Instructor of Record for MATH 1310 (Calculus I), University of Virginia #h(1fr) Fall 2023
-- Teaching Assistant for MATH 1320 (Calculus II), University of Virginia #h(1fr) Spring 2023
-- Teaching Assistant for MATH 1320 (Calculus II), University of Virginia #h(1fr) Fall 2022
-- Teaching Assistant for CS 2212 (Discrete Math), Vanderbilt University #h(1fr) Spring 2021
-- Teaching Assistant for CS 2212 (Discrete Math), Vanderbilt University #h(1fr) Fall 2020
+- Instructor of Record for MATH 1210 (Calculus I), University of Virginia -- Fall 2024
+- Instructor of Record for MATH 1220 (Calculus II), University of Virginia -- Spring 2024
+- Instructor of Record for MATH 1310 (Calculus I), University of Virginia -- Fall 2023
+- Teaching Assistant for MATH 1320 (Calculus II), University of Virginia -- Spring 2023
+- Teaching Assistant for MATH 1320 (Calculus II), University of Virginia -- Fall 2022
+- Teaching Assistant for CS 2212 (Discrete Math), Vanderbilt University -- Spring 2021
+- Teaching Assistant for CS 2212 (Discrete Math), Vanderbilt University -- Fall 2020
 
 
 == Awards & Honors
-- Dean's Doctoral Fellowship, University of Virginia #h(1fr) 2022--2026
-- Wilson & Nellie Pyle Miser Award, Vanderbilt University #h(1fr) 2022
+- Dean's Doctoral Fellowship, University of Virginia -- 2022--2026
+- Wilson & Nellie Pyle Miser Award, Vanderbilt University -- 2022
