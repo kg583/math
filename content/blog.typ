@@ -48,7 +48,6 @@
 
 
     // Main body.
-    outline(title:"", indent: auto)
     set par(justify: true)
     it
 
