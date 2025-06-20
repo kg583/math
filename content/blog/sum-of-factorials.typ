@@ -4,7 +4,7 @@
 
 #show: main.with(
   title: "KG's Teensy Math Problems: Sum of Factorials",
-  desc: "Group Relative Policy Optimization",
+  desc: "A medium problem about the digits of factorials",
   date: "2025-03-13",
   tags: (
     "teensy-problems",
