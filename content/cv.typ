@@ -1,89 +1,39 @@
-=== 📝 Publications
+== Publications
 
-#table(
-  columns: (0.8in, 1fr),
-  stroke: none,
-  column-gutter: 0.2in,
-  inset: (x: 0pt, y: 3pt),
-  align: (x, y) => (left, left).at(x),
-
-  
-  [*[arXiv]*], [#link("https://arxiv.org/abs/2501.12948")[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning]],
-  [], [DeepSeek-AI, Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu. et al.],
-  [], [_arXiv_, 2025],
-  [],[],
-  
+- K. Gomez, K. Ono, H. Saad, and A. Singh, _Pentagonal number recurrence relations for p(n)_, Advances in Mathematics, to appear (2025). *arXiv*: #link("https://arxiv.org/abs/2411.16968")[2411.16968]
+- K. Gomez, _MacMahonesque partition functions detect sets related to primes_, Archiv der Mathematik, (2025). *doi*: #link("https://doi.org/10.1007/s00013-025-02109-x")[10.1007/s00013-025-02109-x]. *arXiv*: #link("https://arxiv.org/abs/2409.14253")[2409.14253]
+- K. Gomez, K. Lakein, and A. Larsen, _Supersingular Loci from Traces of Hecke Operators_, Proceedings of the American Mathematical Society, 151 (2023), 511-525. *doi*: #link("https://doi.org/10.1090/proc/16148")[10.1090/proc/16148]. *arXiv*: #link("https://arxiv.org/abs/2106.15677")[2106.15677]
+- K. Gomez, J. Males, and L. Rolen, _The second shifted difference of partitions and its applications_, Bulletin of the Australian Math Society, 107 (2023), 66-78. *doi*: #link("https://doi.org/10.1017/S0004972722000764")[10.1017/S0004972722000764]. *arXiv*: #link("https://arxiv.org/abs/2203.11608")[2203.11608]
+- K. Bringmann, K. Gomez, L. Rolen, and Z. Tripp, _Infinite families of crank functions, Stanton-type conjectures, and unimodality_, Research in Mathematical Sciences, 37 (2022). *doi*: #link("https://doi.org/10.1007/s40687-022-00333-3")[10.1007/s40687-022-00333-3]. *arXiv*: #link("https://arxiv.org/abs/2108.12979")[2108.12979]
+- K. Gomez and E. Zhu, _Bounds for Coefficients of the $f(q)$ Mock Theta Function and Applications to Partition Ranks_, Journal of Number Theory, 226 (2021), 1-23. *doi*: #link("https://doi.org/10.1016/j.jnt.2021.01.009")[10.1016/j.jnt.2021.01.009]. *arXiv*: #link("https://arxiv.org/abs/2008.08253")[2008.08253]
 
 
-  [*[NeurIPS2020]*], [#link("https://arxiv.org/abs/2006.11239")[Denoising Diffusion Probabilistic Models]],
-  [], [Jonathan Ho, Ajay Jain, Pieter Abbeel],
-  [], [_Neural Information Processing Systems (NeurIPS)_, 2020],
-  [],[],
-  
-  [*[arXiv]*], [#link("https://arxiv.org/abs/1707.06347")[Proximal Policy Optimization Algorithms]],
-  [], [John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov],
-  [], [_arXiv_, 2017],
-  [],[],
-  
-
-  [*[NeurIPS2017]*], [#link("https://arxiv.org/abs/1706.03762")[Attention Is All You Need]],
-  [], [Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin],
-  [], [_Neural Information Processing Systems (NeurIPS)_, 2017],
-  [],[],
+== Education
+- _Ph.D. in Mathematics_, University of Virginia #h(1fr) expected 2026
+- _B.A. in Mathematics_, Vanderbilt University #h(1fr) 2022
+- _B.S. in Computer Science_, Vanderbilt University #h(1fr) 2022 
 
 
-  
-)
+== Talks
+- AMS Spring Eastern Sectional Special Session on Partitions and $q$-Series, University of Connecticut - Hartford #h(1fr) April 2025
+- Graduate Student Seminar, University of Virginia #h(1fr) September 2024
+- AMS Fall Central Sectional Special Session on Additive Number Theory and Modular Forms, University of Texas - San Antonio #h(1fr) September 2024
+- Graduate Student Seminar, University of Virginia #h(1fr) September 2023
+- Joint Mathematics Meetings PME Virtual Poster Session #h(1fr) May 2022
+- Honors Senior Thesis Defense, Vanderbilt University #h(1fr) May 2022
+- PAlmetto Joint Arithmetic, Modularity, and Analysis Series #h(1fr) December 2020
+
+== Teaching
+
+- Instructor of Record for MATH 1210 (Calculus I), University of Virginia #h(1fr) Fall 2024
+- Instructor of Record for MATH 1220 (Calculus II), University of Virginia #h(1fr) Spring 2024
+- Instructor of Record for MATH 1310 (Calculus I), University of Virginia #h(1fr) Fall 2023
+- Teaching Assistant for MATH 1320 (Calculus II), University of Virginia #h(1fr) Spring 2023
+- Teaching Assistant for MATH 1320 (Calculus II), University of Virginia #h(1fr) Fall 2022
+- Teaching Assistant for CS 2212 (Discrete Math), Vanderbilt University #h(1fr) Spring 2021
+- Teaching Assistant for CS 2212 (Discrete Math), Vanderbilt University #h(1fr) Fall 2020
 
 
-
-=== 🎓 Education
-- _Ph.D. in Computer Science_, State University, City, State #h(1fr) Sep 2005 -- Aug 2010\
-- _B.S. in Computer Science_, Public University, City, State #h(1fr) Sep 1999 -- June 2003 \ 
-
-
-=== 🎖️ Awards & Honors
-- Excellence in Machine Learning Research Award #h(1fr) 2014 \
-- Distinguished Graduate Fellowship, Computer Science Department #h(1fr) 2013 \
-- Best Paper Award, International Conference on AI Systems #h(1fr) 2012 \
-- Research Innovation Grant, University Research Council #h(1fr) 2013 \
-- Conference Participation Award #h(1fr) 2012
-- Peer Review Excellence Recognition #h(1fr) 2012
-- Academic Achievement Scholarship #h(1fr) 2009
-- Merit-Based Graduate Scholarship #h(1fr) 2008
-
-
-=== 💼 Professional Experiences
-
-*TechCorp Research*, Boston, MA #h(1fr) July 2009 -- Dec 2009
-  - _Machine Learning Research Intern_, Developed efficient neural network architectures for computer vision applications
-  - Mentor: Dr. Sarah Johnson
-
-*DataSystems Inc.*, Austin, TX #h(1fr) May 2008 -- Aug 2008
-  - _Software Engineering Intern_, Built scalable data processing pipelines for recommendation systems
-  - Mentor: Michael Rodriguez
- 
-*AI Innovations Lab*, Portland, OR #h(1fr) Sept 2007 -- April 2008
-  - _Research Assistant_, Implemented graph-based machine learning algorithms for social network analysis
-  - Mentor: Prof. Jennifer Lee
-
-*CloudTech Solutions*, Denver, CO #h(1fr) May 2007 -- Aug 2007
-  - _Data Science Intern_, Analyzed large-scale datasets and developed predictive models for business applications
-  - Mentor: David Kim
-
-
-
-
-
-
-
-
-=== 📝 Professional Services
-
-*Area Chair*: MLCONF 2015, ICLR 2014
-
-*Program Committee/Reviewer*: COMPCONF 2014; DATACONF 2014; ALGOCONF 2013; SYSCONF 2012, 2013; MLCONF 2012, 2013, 2015; AICONF 2011, 2012, 2013, 2014; TECHCONF 2011, 2013; NetConf 2013; STATSCONF 2013; DMCONF 2012; GRAPHCONF 2013; 
-
-
-
-
+== Awards & Honors
+- Dean's Doctoral Fellowship, University of Virginia #h(1fr) 2022--2026
+- Wilson & Nellie Pyle Miser Award, Vanderbilt University #h(1fr) 2022
