@@ -9,6 +9,9 @@ author_profile: true
 
 ## Preprints
 
+1. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
+
+
 ## Publications
 
 6. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, Advances in Mathematics, to appear (2025). **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
