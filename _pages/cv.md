@@ -17,6 +17,8 @@ redirect_from:
 
 ## Preprints
 
+2. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
+
 1. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
 
 
