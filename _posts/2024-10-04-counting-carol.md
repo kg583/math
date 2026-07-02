@@ -27,6 +27,6 @@ Answer the following about Carol's sequences.
 1. Prove that every $A_k$ is eventually periodic. We'll denote this period by $P(k)$ for the remaining questions.
 2. Does every $P(k)$ include the initial 1? That is, is every $A_k$ just periodic?
 3. Does every $P(k)$ include *some* 1?
-4. Is $|P(k)|$ a monotonic function in $k$?
-5. Is $|P(k)|$ bounded?
+4. Is $\vert P(k) \vert$ a monotonic function in $k$?
+5. Is $\vert P(k) \vert$ bounded?
 6. Give an explicit formula for $A_{\infty}$.
