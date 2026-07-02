@@ -1,5 +1,5 @@
 ---
-title: "Teensy Problems: Alien Astronomer"
+title: "Teensy Problems: Alien Astronomer (Part 1)"
 date: 2026-04-27
 categories:
   - teensy-problems
