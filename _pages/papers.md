@@ -14,7 +14,7 @@ author_profile: true
 
 ## Publications
 
-8. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, to appear (2026). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
+8. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, 22 (2026), 1969-1985. **doi**: [10.1142/S179304212650096X](https://doi.org/10.1142/S179304212650096X). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
 
 7. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, Proceedings of the 17th Mathematical Society of Japan's Seasonal Institute (2025). **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
 
